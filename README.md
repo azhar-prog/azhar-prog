@@ -1,8 +1,8 @@
-![logo](https://github.com/azhar-prog/azhar-prog/blob/main/download%20MERN.jpeg)
+![logo](https://wallpapercave.com/wp/wp8904080.jpg)
 <h1 align="center">Hi 👋, I'm Azharuddin Siddique</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
 - 🌱 I’m currently learning **Version control,CI/CD (Continuous Integration & Deployment), Infrastructure as Code (IaC),. Containerization & Orchestration, Cloud Platforms, Scripting & Automation,Networking & Load Balancing.**
 
