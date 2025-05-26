@@ -4,11 +4,10 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
-- 🌱 I’m currently learning **Version control,CI/CD (Continuous Integration & Deployment), Infrastructure as Code (IaC),. Containerization & Orchestration, Cloud Platforms, Scripting & Automation,Networking & Load Balancing.**
+- 🌱 📚 Currently, I am focusing on mastering React, Node.js, Express, and databases to build dynamic applications.
+- 👨‍💻 All of my projects are available at (https://github.com/azhar-prog?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/azhar-prog](https://github.com/azhar-prog)
-
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web development**📚 Currently, 
 
 - 📫 How to reach me **azharsiddique4590@gmail.com**
 
