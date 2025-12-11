@@ -1,4 +1,4 @@
-![logo](https://wallpapercave.com/wp/wp8904080.jpg)
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-VIYNkS-Hsk6R7hChTDyUq3Q_D2-IsR-JvQ&s)
 <h1 align="center">Hi 👋, I'm Azharuddin Siddique</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
@@ -7,7 +7,7 @@
 - 🌱 📚 Currently, I am focusing on mastering React, Node.js, Express, and databases to build dynamic applications.
 - 👨‍💻 All of my projects are available at (https://github.com/azhar-prog?tab=repositories)
 
-- 💬 Ask me about **Web development**📚 Currently, 
+- 💬 Ask me about React.js,node.js Currently, 
 
 - 📫 How to reach me **azharsiddique4590@gmail.com**
 
