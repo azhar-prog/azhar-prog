@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Azharuddin Siddique</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
 - 🌱 📚 Currently, I am focusing on mastering React, Node.js, Express, and databases to build dynamic applications.
 - 👨‍💻 All of my projects are available at (https://github.com/azhar-prog?tab=repositories)
